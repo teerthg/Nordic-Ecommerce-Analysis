@@ -32,4 +32,4 @@ All charts and graphs are available in the `/images/` folder.
 - Git & GitHub
 
 ## 📣 Author
-Endri Gupta
+Teerth Gupta
