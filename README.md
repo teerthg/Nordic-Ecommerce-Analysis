@@ -33,3 +33,7 @@ All charts and graphs are available in the `/images/` folder.
 
 ## 📣 Author
 Teerth Gupta
+
+## Contact Information:
+- Email: teerth.gupta@example.com
+- LinkedIn: [Teerth Gupta](https://www.linkedin.com/in/teerthgupta/)
