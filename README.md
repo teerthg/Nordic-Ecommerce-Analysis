@@ -20,59 +20,59 @@ Customer Segmentation → RFM metrics with KMeans clustering
 
 ## Results
 
-Revenue by Country: Sweden generated ≈ 42% of revenue, followed by Denmark (27%), Norway (19%), and Finland (12%).
+1. Revenue by Country: Sweden generated ≈ 42% of revenue, followed by Denmark (27%), Norway (19%), and Finland (12%).
 
-Top Products: The 10 best-selling products made up ≈ 30% of total units sold → evidence of the Pareto principle.
+2. Top Products: The 10 best-selling products made up ≈ 30% of total units sold → evidence of the Pareto principle.
 
-Seasonality: Monthly revenue showed holiday peaks ≈ 40% above the yearly average, with year-over-year growth of ≈ 18%.
+3. Seasonality: Monthly revenue showed holiday peaks ≈ 40% above the yearly average, with year-over-year growth of ≈ 18%.
 
-Customer Spend: Median spend per customer was modest (~€220), but the top quartile spent 3.5× higher.
+4. Customer Spend: Median spend per customer was modest (~€220), but the top quartile spent 3.5× higher.
 
-Top 5% Customers: This group contributed ≈ 48% of all revenue, confirming reliance on an elite few.
+5. Top 5% Customers: This group contributed ≈ 48% of all revenue, confirming reliance on an elite few.
 
-Outliers: ~0.9% of transactions were extreme bulk purchases, skewing revenue upward by ≈ 12%.
+6. Outliers: ~0.9% of transactions were extreme bulk purchases, skewing revenue upward by ≈ 12%.
 
-Correlation: Quantity strongly correlated with revenue (r ≈ 0.85), while price vs. quantity was weakly negative (r ≈ –0.18).
+7. Correlation: Quantity strongly correlated with revenue (r ≈ 0.85), while price vs. quantity was weakly negative (r ≈ –0.18).
 
-Segmentation: RFM clustering grouped customers into 4 segments:
+8. Segmentation: RFM clustering grouped customers into 4 segments:
 
-Loyal (25%) → 45% of revenue
+ . Loyal (25%) → 45% of revenue
 
-High-Value (15%) → 30% of revenue
+ . High-Value (15%) → 30% of revenue
 
-At-Risk (35%) → 20% of revenue
+ . At-Risk (35%) → 20% of revenue
 
-Low-Engagement (25%) → 5% of revenue
+ . Low-Engagement (25%) → 5% of revenue
 
 ## Visualizations
 
-Revenue by country (bar chart)
+1. Revenue by country (bar chart)
 
-Top 10 products (bar chart)
+2. Top 10 products (bar chart)
 
-Monthly revenue trend (line chart)
+3. Monthly revenue trend (line chart)
 
-Average spend distribution (histogram)
+4. Average spend distribution (histogram)
 
-Top 5% vs 95% customers (donut chart)
+5. Top 5% vs 95% customers (donut chart)
 
-Revenue outliers (boxplot)
+6. Revenue outliers (boxplot)
 
-Correlation heatmap
+7. Correlation heatmap
 
-RFM clusters (scatterplot)
+8. RFM clusters (scatterplot)
 
 ## Built With
 
-Python 3
+1. Python 3
 
-pandas, numpy
+2. pandas, numpy
 
-matplotlib, seaborn
+3. matplotlib, seaborn
 
-scikit-learn (KMeans)
+4. scikit-learn (KMeans)
 
-Jupyter/Colab
+5. Jupyter/Colab
 
 ## Final Insights
 
